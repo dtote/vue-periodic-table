@@ -15,8 +15,8 @@ export default {
 <style scoped>
 .square{
     border: 1px solid black;
-    height: 200px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
     background-color: pink;
     display: flex;
     flex-direction: column;

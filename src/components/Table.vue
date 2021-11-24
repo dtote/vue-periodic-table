@@ -30,7 +30,8 @@ export default {
 
 <style>
 .rectangle {
-  border: 1px solid black;
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 </style>
